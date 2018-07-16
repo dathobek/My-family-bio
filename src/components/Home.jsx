@@ -10,10 +10,10 @@ export default class Home extends Component{
             <Grid>
                 <Jumbotron>
                     <h1>Welcome To Athobe's Family</h1>
-                    <p>This is the God's Family</p>
+                    <p>This is God's Family</p>
                 </Jumbotron> 
                 <Link to="/About">
-                   <Button> bsStyle="primary">About</Button>
+                   <Button bsStyle="primary">About</Button>
                 </Link>
             </Grid>    
         )
