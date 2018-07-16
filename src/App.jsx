@@ -6,6 +6,7 @@ import About from './components/About';
 import  News  from './components/News';
 import Navbar from './components/CustomNavbar';
 
+
 class App extends Component {
   render() {
     return (
